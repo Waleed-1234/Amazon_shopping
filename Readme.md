@@ -37,6 +37,15 @@ Feature: Insert searched item on Amazon shopping cart
 
   Then I navigate to new user registration page
 
+
+**System requirements**
+Cypress is a desktop application that is installed on your computer. The desktop application supports these operating systems:
+
+ **Operating System**
+- macOS 10.9 and above (64-bit only)
+- Linux Ubuntu 12.04 and above, Fedora 21 and Debian 8 (64-bit only)
+- Windows 7 and above
+ for more detail please refer to 'https://docs.cypress.io/guides/getting-started/installing-cypress#Switching-browsers'
  
 
 
