@@ -25,5 +25,5 @@ https://code.visualstudio.com/download
 
 **File Structure**
 
-CypressAutomation/cypress/integration/amazon_shopping.js
+Amazon_shopping/Integration/amazon_shopping.js
 
